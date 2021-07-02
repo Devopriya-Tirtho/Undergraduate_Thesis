@@ -1,0 +1,46 @@
+,Match,Ground,Vs,Date,Agg,Avg,WicketsCric,Overs,Runs,Econ,AvgCric,SR,5W
+0,1.0,Arun Jaitley Stadium,Kings XI Punjab,2011-04-23,1.0,36.0,1,4.0,36,9.0,36,24,0
+1,2.0,MA Chidambaram Stadium,Chennai Super Kings,2011-05-12,2.0,28.0,1,4.0,20,5.0,20,24,0
+2,3.0,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,2011-05-15,2.0,41.0,0,4.0,26,6.5,-,-,0
+3,5.0,Arun Jaitley Stadium,Kolkata Knight Riders,2012-05-07,3.0,34.0,1,3.4,20,5.45,20,22,0
+4,6.0,Rajiv Gandhi International Stadium,Deccan Chargers,2012-05-10,5.0,26.4,2,4.0,30,7.5,15,12,0
+5,7.0,MA Chidambaram Stadium,Chennai Super Kings,2012-05-12,5.0,32.0,0,3.2,28,8.4,-,-,0
+6,8.0,Arun Jaitley Stadium,Kings XI Punjab,2012-05-15,7.0,25.57,2,4.0,19,4.75,9.5,12,0
+7,9.0,Arun Jaitley Stadium,Royal Challengers Bangalore,2012-05-17,8.0,27.13,1,4.0,38,9.5,38,24,0
+8,10.0,Himachal Pradesh Cricket Association Stadium,Kings XI Punjab,2012-05-19,8.0,30.25,0,4.0,25,6.25,-,-,0
+9,11.0,Maharashtra Cricket Association Stadium,Kolkata Knight Riders,2012-05-22,8.0,36.25,0,4.0,48,12.0,-,-,0
+10,12.0,MA Chidambaram Stadium,Chennai Super Kings,2012-05-25,10.0,35.3,2,4.0,63,15.75,31.5,12,0
+11,13.0,Sharjah Cricket Stadium,Delhi Capitals,2014-04-17,11.0,32.91,1,3.0,9,3.0,9,18,0
+12,14.0,Dubai International Cricket Stadium,Mumbai Indians,2014-04-19,13.0,30.15,2,4.0,30,7.5,15,12,0
+13,15.0,Sharjah Cricket Stadium,Kolkata Knight Riders,2014-04-24,16.0,25.5,3,4.0,16,4.0,5.3,8,0
+14,16.0,Dubai International Cricket Stadium,Kings XI Punjab,2014-04-28,18.0,24.28,2,3.5,29,7.57,14.5,11.5,0
+15,17.0,M Chinnaswamy Stadium,Sunrisers Hyderabad,2014-05-04,20.0,23.5,2,4.0,33,8.25,16.5,12,0
+16,18.0,Wankhede Stadium,Mumbai Indians,2014-05-06,21.0,24.33,1,4.0,41,10.25,41,24,0
+17,19.0,M Chinnaswamy Stadium,Kings XI Punjab,2014-05-09,22.0,24.82,1,4.0,35,8.75,35,24,0
+18,20.0,M Chinnaswamy Stadium,Rajasthan Royals,2014-05-11,22.0,26.68,0,2.5,41,14.47,-,-,0
+19,21.0,JSCA International Stadium Complex,Chennai Super Kings,2014-05-18,24.0,25.67,2,3.0,29,9.67,14.5,9,0
+20,22.0,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,2014-05-20,26.0,25.08,2,4.0,36,9.0,18,12,0
+21,23.0,Eden Gardens,Kolkata Knight Riders,2015-04-11,27.0,25.56,1,4.0,38,9.5,38,24,0
+22,24.0,M Chinnaswamy Stadium,Sunrisers Hyderabad,2015-04-13,27.0,26.89,0,3.2,36,10.8,-,-,0
+23,25.0,M Chinnaswamy Stadium,Mumbai Indians,2015-04-19,27.0,28.74,0,4.0,50,12.5,-,-,0
+24,26.0,Arun Jaitley Stadium,Delhi Capitals,2015-04-26,29.0,27.59,2,4.0,24,6.0,12,12,0
+25,28.0,M Chinnaswamy Stadium,Kolkata Knight Riders,2015-05-02,29.0,28.59,0,2.0,29,14.5,-,-,0
+26,29.0,Barabati Stadium,Mumbai Indians,2016-04-20,29.0,29.86,0,4.0,37,9.25,-,-,0
+27,30.0,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,2016-04-30,29.0,30.79,0,3.0,27,9.0,-,-,0
+28,31.0,M Chinnaswamy Stadium,Kolkata Knight Riders,2016-05-02,29.0,31.97,0,4.0,34,8.5,-,-,0
+29,32.0,M Chinnaswamy Stadium,Rising Pune Supergiant,2016-05-07,29.0,33.03,0,3.0,31,10.33,-,-,0
+30,33.0,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,2016-05-09,29.0,33.9,0,3.0,25,8.33,-,-,0
+31,34.0,M Chinnaswamy Stadium,Mumbai Indians,2016-05-11,31.0,32.9,2,3.4,37,10.09,18.5,11,0
+32,35.0,M Chinnaswamy Stadium,Gujarat Lions,2016-05-14,31.0,33.52,0,2.0,19,9.5,-,-,0
+33,36.0,M Chinnaswamy Stadium,Kings XI Punjab,2016-05-18,31.0,34.06,0,1.0,17,17.0,-,-,0
+34,37.0,Holkar Cricket Stadium,Royal Challengers Bangalore,2017-04-10,33.0,32.64,2,4.0,21,5.25,10.5,12,0
+35,38.0,Barabati Stadium,Kolkata Knight Riders,2017-04-13,34.0,32.35,1,2.0,23,11.5,23,12,0
+36,39.0,Arun Jaitley Stadium,Delhi Capitals,2017-04-15,36.0,31.81,2,4.0,45,11.25,22.5,12,0
+37,40.0,Punjab Cricket Association IS Bindra Stadium,Delhi Capitals,2017-04-30,38.0,30.21,2,2.0,3,1.5,1.5,6,0
+38,41.0,M Chinnaswamy Stadium,Royal Challengers Bangalore,2017-05-05,38.0,30.95,0,4.0,28,7.0,-,-,0
+39,42.0,Punjab Cricket Association IS Bindra Stadium,Gujarat Lions,2017-05-07,38.0,32.08,0,4.0,43,10.75,-,-,0
+40,43.0,Sawai Mansingh Stadium,Royal Challengers Bangalore,2019-04-02,38.0,32.5,0,1.0,16,16.0,-,-,0
+41,44.0,Eden Gardens,Kolkata Knight Riders,2019-04-25,40.0,31.38,2,4.0,20,5.0,10,12,0
+42,45.0,Sawai Mansingh Stadium,Sunrisers Hyderabad,2019-04-27,42.0,30.74,2,4.0,36,9.0,18,12,0
+43,46.0,M Chinnaswamy Stadium,Royal Challengers Bangalore,2019-04-30,42.0,31.29,0,1.0,23,23.0,-,-,0
+44,47.0,Arun Jaitley Stadium,Delhi Capitals,2019-05-04,42.0,31.79,0,2.0,21,10.5,-,-,0

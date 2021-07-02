@@ -1,0 +1,90 @@
+Match,Date,Vs,Venue,D/N*,How Dismissed,Out,Runs,Balls,S/R,,TotalRuns,Avg,S/R
+1,14/04/2013,Kings XI Punjab,Sawai Mansingh Stadium,Yes,not out,0,27,23,117.39,,27,,117.39
+2,29/04/2013,Royal Challengers Bangalore,Sawai Mansingh Stadium,Yes,c M Kartik b R Rampaul,1,63,41,153.66,,90,90,140.63
+3,3/5/2013,Kolkata Knight Riders,Eden Gardens,Yes,c J H Kallis b R Bhatia,1,40,36,111.11,,130,65,130
+4,5/5/2013,Pune Warriors,Sawai Mansingh Stadium,Yes,c U A Birla b W D Parnell,1,10,6,166.67,,140,46.67,132.08
+5,9/5/2013,Kings XI Punjab,Punjab Cricket Association IS Bindra Stadium,Yes,not out,0,47,33,142.42,,187,62.33,134.53
+6,12/5/2013,Chennai Super Kings,Sawai Mansingh Stadium,Yes,c †M S Dhoni b M M Sharma,1,0,5,0,,187,46.75,129.86
+7,15/05/2013,Mumbai Indians,Wankhede Stadium,Yes,c P P Ojha b M G Johnson,1,4,4,100,,191,38.2,129.05
+8,17/05/2013,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,Yes,c D W Steyn b A Mishra,1,5,7,71.43,,196,32.67,126.45
+9,22/05/2013,Sunrisers Hyderabad,Arun Jaitley Stadium,Yes,lbw b D W Steyn,1,10,21,47.62,,206,29.43,117.05
+10,24/05/2013,Mumbai Indians,Eden Gardens,Yes,c Harbhajan Singh b S L Malinga,1,0,2,0,,206,25.75,115.73
+11,18/04/2014,Sunrisers Hyderabad,Sheikh Zayed Stadium,Yes,c S Dhawan b B Kumar,1,3,9,33.33,,209,23.22,111.76
+12,20/04/2014,Kings XI Punjab,Sharjah Cricket Stadium,Yes,b P Awana,1,52,34,152.94,,261,26.1,118.1
+13,23/04/2014,Chennai Super Kings,Dubai International Cricket Stadium,Yes,c & b R A Jadeja,1,16,16,100,,277,25.18,116.88
+14,26/04/2014,Royal Challengers Bangalore,Sheikh Zayed Stadium,No,run out,1,2,6,33.33,,279,23.25,114.81
+15,29/04/2014,Kolkata Knight Riders,Sheikh Zayed Stadium,Yes,b Shakib Al Hasan,1,20,19,105.26,,299,23,114.12
+16,3/5/2014,Delhi Capitals,Arun Jaitley Stadium,Yes,st K D Karthik b S Nadeem,1,34,28,121.43,,333,23.79,114.83
+17,5/5/2014,Kolkata Knight Riders,Sardar Patel Stadium,Yes,c M K Pandey b S P Narine,1,37,31,119.35,,370,24.67,115.26
+18,8/5/2014,Sunrisers Hyderabad,Sardar Patel Stadium,Yes,b K V Sharma,1,16,16,100,,386,24.13,114.54
+19,11/5/2014,Royal Challengers Bangalore,M Chinnaswamy Stadium,Yes,c & b Yuvraj Singh,1,13,8,162.5,,399,23.47,115.65
+20,15/05/2014,Delhi Capitals,Sardar Patel Stadium,Yes,c K M Jadhav b Imran Tahir,1,40,25,160,,439,24.39,118.65
+21,19/05/2014,Mumbai Indians,Sardar Patel Stadium,Yes,c A T Rayudu b K Santokie,1,2,5,40,,441,23.21,117.6
+22,23/05/2014,Kings XI Punjab,Punjab Cricket Association IS Bindra Stadium,Yes,st W P Saha b Karanveer Singh,1,30,29,103.45,,471,23.55,116.58
+23,25/05/2014,Mumbai Indians,Wankhede Stadium,Yes,c Harbhajan Singh b S Gopal,1,74,47,157.45,,545,25.95,120.84
+24,10/4/2015,Kings XI Punjab,Maharashtra Cricket Association Stadium,Yes,lbw b Sandeep Sharma,1,5,6,83.33,,550,25,120.35
+25,12/4/2015,Delhi Capitals,Arun Jaitley Stadium,Yes,c Yuvraj Singh b A D Mathews,1,11,12,91.67,,561,24.39,119.62
+26,14/04/2015,Mumbai Indians,Sardar Patel Stadium,Yes,c R G Sharma b R Vinay Kumar,1,17,16,106.25,,578,24.08,119.18
+27,16/04/2015,Sunrisers Hyderabad,Dr YS Rajasekhara Reddy Cricket Stadium,Yes,c †N V Ojha b R S Bopara,1,26,30,86.67,,604,24.16,117.28
+28,21/04/2015,Kings XI Punjab,Sardar Patel Stadium,No,not out,0,5,2,250,,609,24.36,117.79
+29,24/04/2015,Royal Challengers Bangalore,Sardar Patel Stadium,Yes,b Y S Chahal,1,4,7,57.14,,613,23.58,116.98
+30,1/5/2015,Mumbai Indians,Wankhede Stadium,Yes,c J Suchith b M J McClenaghan,1,76,46,165.22,,689,25.52,120.88
+31,7/5/2015,Sunrisers Hyderabad,Brabourne Stadium,Yes,b B Kumar,1,21,10,210,,710,25.36,122.41
+32,10/5/2015,Chennai Super Kings,MA Chidambaram Stadium,Yes,c D R Smith b D J J Bravo,1,26,17,152.94,,736,25.38,123.28
+33,16/05/2015,Kolkata Knight Riders,Brabourne Stadium,Yes,c G Gambhir b A D Russell,1,8,9,88.89,,744,24.8,122.77
+34,20/05/2015,Royal Challengers Bangalore,Maharashtra Cricket Association Stadium,Yes,c †K D Karthik b H V Patel,1,5,8,62.5,,749,24.16,121.99
+35,10/4/2016,Kolkata Knight Riders,Eden Gardens,Yes,c †R V Uthappa b G B Hogg,1,15,13,115.38,,764,23.88,121.85
+36,15/04/2016,Kings XI Punjab,Arun Jaitley Stadium,No,b A R Patel,1,33,32,103.13,,797,24.15,120.94
+37,17/04/2016,Royal Challengers Bangalore,M Chinnaswamy Stadium,Yes,c Y S Chahal b S R Watson,1,9,14,64.29,,806,23.71,119.76
+38,23/04/2016,Mumbai Indians,Arun Jaitley Stadium,Yes,c T G Southee b M J McClenaghan,1,60,48,125,,866,24.74,120.11
+39,27/04/2016,Gujarat Lions,Arun Jaitley Stadium,Yes,c J P Faulkner b D S Kulkarni,1,1,6,16.67,,867,24.08,119.26
+40,30/04/2016,Kolkata Knight Riders,Arun Jaitley Stadium,Yes,lbw b S P Narine,1,15,15,100,,882,23.84,118.87
+41,3/5/2016,Gujarat Lions,Saurashtra Cricket Association Stadium,Yes,not out,0,19,13,146.15,,901,24.35,119.34
+42,5/5/2016,Rising Pune Supergiant,Arun Jaitley Stadium,Yes,c R Ashwin b S M Boland,1,20,17,117.65,,921,24.24,119.3
+43,7/5/2016,Kings XI Punjab,Punjab Cricket Association IS Bindra Stadium,Yes,c G J Maxwell b M P Stoinis,1,49,35,140,,970,24.87,120.2
+44,12/5/2016,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,Yes,not out,0,34,26,130.77,,1004,25.74,120.53
+45,15/05/2016,Mumbai Indians,Dr YS Rajasekhara Reddy Cricket Stadium,Yes,run out,1,6,11,54.55,,1010,25.25,119.67
+46,17/05/2016,Rising Pune Supergiant,Dr YS Rajasekhara Reddy Cricket Stadium,Yes,st M S Dhoni b A Zampa,1,10,13,76.92,,1020,24.88,119.02
+47,20/05/2016,Sunrisers Hyderabad,Shaheed Veer Narayan Sing International Stadium,Yes,not out,0,3,4,75,,1023,24.95,118.82
+48,22/05/2016,Royal Challengers Bangalore,Shaheed Veer Narayan Sing International Stadium,Yes,c †K L Rahul b Y S Chahal,1,17,12,141.67,,1040,24.76,119.13
+49,8/4/2017,Royal Challengers Bangalore,M Chinnaswamy Stadium,Yes,c S T R Binny b B Stanlake,1,13,12,108.33,,1053,24.49,118.98
+50,11/4/2017,Rising Pune Supergiant,Maharashtra Cricket Association Stadium,Yes,b A Zampa,1,102,63,161.9,,1155,26.25,121.84
+51,15/04/2017,Kings XI Punjab,Arun Jaitley Stadium,Yes,c E J G Morgan b K C Cariappa,1,19,18,105.56,,1174,26.09,121.53
+52,17/04/2017,Kolkata Knight Riders,Arun Jaitley Stadium,Yes,c †R V Uthappa b U T Yadav,1,39,25,156,,1213,26.37,122.4
+53,19/04/2017,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,No,c M C Henriques b Mohammed Siraj,1,42,33,127.27,,1255,26.7,122.56
+54,22/04/2017,Mumbai Indians,Wankhede Stadium,Yes,c R G Sharma b M J McClenaghan,1,9,6,150,,1264,26.33,122.72
+55,28/04/2017,Kolkata Knight Riders,Eden Gardens,Yes,lbw b U T Yadav,1,60,38,157.89,,1324,27.02,123.97
+56,30/04/2017,Kings XI Punjab,Punjab Cricket Association IS Bindra Stadium,Yes,c M M Sharma b Sandeep Sharma,1,5,14,35.71,,1329,26.58,122.83
+57,2/5/2017,Sunrisers Hyderabad,Arun Jaitley Stadium,Yes,c S Dhawan b Mohammed Siraj,1,24,19,126.32,,1353,26.53,122.89
+58,4/5/2017,Gujarat Lions,Arun Jaitley Stadium,Yes,c J P Faulkner b R A Jadeja,1,61,31,196.77,,1414,27.19,124.91
+59,6/5/2017,Mumbai Indians,Barabati Stadium,Yes,c L M P Simmons b M J McClenaghan,1,0,1,0,,1414,26.68,124.8
+60,10/5/2017,Gujarat Lions,Green Park,Yes,b P J Sangwan,1,10,7,142.86,,1424,26.37,124.91
+61,12/5/2017,Rising Pune Supergiant,Arun Jaitley Stadium,Yes,run out,1,2,4,50,,1426,25.93,124.65
+62,14/05/2017,Royal Challengers Bangalore,Arun Jaitley Stadium,Yes,c V Kohli b Avesh Khan,1,0,2,0,,1426,25.46,124.43
+63,9/4/2018,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,Yes,c Rashid Khan b Shakib Al Hasan,1,49,42,116.67,,1475,25.88,124.16
+64,11/4/2018,Delhi Capitals,Sawai Mansingh Stadium,Yes,b S Nadeem,1,37,22,168.18,,1512,26.07,124.96
+65,15/04/2018,Royal Challengers Bangalore,M Chinnaswamy Stadium,Yes,not out,0,92,45,204.44,,1604,27.66,127.81
+66,18/04/2018,Kolkata Knight Riders,Sawai Mansingh Stadium,Yes,c Kuldeep Yadav b Shivam Mavi,1,7,8,87.5,,1611,27.31,127.55
+67,20/04/2018,Chennai Super Kings,Maharashtra Cricket Association Stadium,Yes,c K V Sharma b D L Chahar,1,2,3,66.67,,1613,26.88,127.41
+68,22/04/2018,Mumbai Indians,Sawai Mansingh Stadium,Yes,c H H Pandya b J J Bumrah,1,52,39,133.33,,1665,27.3,127.59
+69,29/04/2018,Sunrisers Hyderabad,Sawai Mansingh Stadium,Yes,c A D Hales b S Kaul,1,40,30,133.33,,1705,27.5,127.72
+70,2/5/2018,Delhi Capitals,Arun Jaitley Stadium,Yes,c C Munro b T A Boult,1,3,5,60,,1708,27.11,127.46
+71,6/5/2018,Kings XI Punjab,Holkar Cricket Stadium,Yes,c K K Nair b A J Tye,1,28,23,121.74,,1736,27.13,127.37
+72,8/5/2018,Kings XI Punjab,Sawai Mansingh Stadium,Yes,c M K Tiwary b Mujeeb Ur Rahman,1,22,18,122.22,,1758,27.05,127.3
+73,11/5/2018,Chennai Super Kings,Sawai Mansingh Stadium,Yes,run out,1,21,22,95.45,,1779,26.95,126.8
+74,13/05/2018,Mumbai Indians,Wankhede Stadium,Yes,c sub b H H Pandya,1,26,14,185.71,,1805,26.94,127.38
+75,15/05/2018,Kolkata Knight Riders,Eden Gardens,Yes,lbw b S P Narine,1,12,10,120,,1817,26.72,127.33
+76,18/05/2018,Royal Challengers Bangalore,Sawai Mansingh Stadium,No,c M M Ali b U T Yadav,1,0,1,0,,1817,26.33,127.24
+77,23/05/2018,Kolkata Knight Riders,Eden Gardens,Yes,c J P R Scantlebury-Searles b P P Chawla,1,50,38,131.58,,1867,26.67,127.35
+78,25/03/2019,Kings XI Punjab,Sawai Mansingh Stadium,Yes,c R Ashwin b S M Curran,1,30,25,120,,1897,26.72,127.23
+79,29/03/2019,Sunrisers Hyderabad,Rajiv Gandhi International Stadium,Yes,not out,0,102,55,185.45,,1999,28.15,129.3
+80,31/03/2019,Chennai Super Kings,MA Chidambaram Stadium,Yes,c S K Raina b D L Chahar,1,8,10,80,,2007,27.88,128.98
+81,11/4/2019,Chennai Super Kings,Sawai Mansingh Stadium,Yes,c sub b M J Santner,1,6,6,100,,2013,27.58,128.87
+82,13/04/2019,Mumbai Indians,Wankhede Stadium,Yes,lbw b J J Bumrah,1,31,26,119.23,,2044,27.62,128.72
+83,16/04/2019,Kings XI Punjab,Punjab Cricket Association IS Bindra Stadium,Yes,b R Ashwin,1,27,21,128.57,,2071,27.61,128.71
+84,20/04/2019,Mumbai Indians,Sawai Mansingh Stadium,No,c K A Pollard b R D Chahar,1,35,19,184.21,,2106,27.71,129.36
+85,22/04/2019,Delhi Capitals,Sawai Mansingh Stadium,Yes,run out,1,0,0,-,,2106,27.35,129.36
+86,25/04/2019,Kolkata Knight Riders,Eden Gardens,Yes,b P P Chawla,1,22,15,146.67,,2128,27.28,129.52
+87,27/04/2019,Sunrisers Hyderabad,Sawai Mansingh Stadium,Yes,not out,0,48,32,150,,2176,27.9,129.91
+88,30/04/2019,Royal Challengers Bangalore,M Chinnaswamy Stadium,Yes,c P Negi b Y S Chahal,1,28,13,215.38,,2204,27.9,130.57
+89,4/5/2019,Delhi Capitals,Arun Jaitley Stadium,Yes,run out,1,5,8,62.5,,2209,27.61,130.25

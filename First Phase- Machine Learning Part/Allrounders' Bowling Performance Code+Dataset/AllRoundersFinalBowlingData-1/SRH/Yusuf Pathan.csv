@@ -1,0 +1,82 @@
+,Match,Ground,Versus,Date,Wkts,Avg,WicketsCric,Overs,Runs,Econ,AvgCric,SR,5W
+0,1.0,Arun Jaitley Stadium,Delhi Capitals,2008-04-19,,,0,2.1,17,7.85,-,-,0
+1,2.0,Sawai Mansingh Stadium,Punjab Kings,2008-04-21,,,0,1.0,13,13.0,-,-,0
+2,3.0,Rajiv Gandhi International Stadium,Deccan Chargers,2008-04-24,1.0,25.0,2,2.0,20,10.0,10,6,0
+3,4.0,M Chinnaswamy Stadium,Royal Challengers Bangalore,2008-04-26,,30.0,0,1.0,10,10.0,-,-,0
+4,5.0,Sawai Mansingh Stadium,Kolkata Knight Riders,2008-05-01,,37.0,0,2.0,14,7.0,-,-,0
+5,6.0,Sawai Mansingh Stadium,Chennai Super Kings,2008-05-04,,41.5,0,2.0,9,4.5,-,-,0
+6,8.0,Sawai Mansingh Stadium,Deccan Chargers,2008-05-09,3.0,34.0,1,2.0,19,9.5,19,12,0
+7,10.0,Sawai Mansingh Stadium,Royal Challengers Bangalore,2008-05-17,,43.33,0,2.0,28,14.0,-,-,0
+8,11.0,Eden Gardens,Kolkata Knight Riders,2008-05-20,4.0,36.0,1,2.0,14,7.0,14,12,0
+9,12.0,MA Chidambaram Stadium,Chennai Super Kings,2008-05-24,,43.75,0,3.0,31,10.33,-,-,0
+10,13.0,Sawai Mansingh Stadium,Mumbai Indians,2008-05-26,,46.0,0,3.0,9,3.0,-,-,0
+11,14.0,Punjab Cricket Association IS Bindra Stadium,Punjab Kings,2008-05-28,5.0,41.6,1,2.0,24,12.0,24,12,0
+12,16.0,Dr DY Patil Sports Academy,Chennai Super Kings,2008-06-01,6.0,28.75,3,4.0,22,5.5,7.3,8,0
+13,17.0,Newlands,Royal Challengers Bangalore,2009-04-18,,30.88,0,2.0,17,8.5,-,-,0
+14,18.0,Newlands,Kolkata Knight Riders,2009-04-23,,34.25,0,4.0,27,6.75,-,-,0
+15,19.0,Newlands,Punjab Kings,2009-04-26,,38.0,0,4.0,30,7.5,-,-,0
+16,20.0,SuperSport Park,Delhi Capitals,2009-04-28,,39.75,0,2.0,14,7.0,-,-,0
+17,21.0,Buffalo Park,Chennai Super Kings,2009-04-30,9.0,33.5,2,3.0,17,5.67,8.5,9,0
+18,22.0,St George's Park,Deccan Chargers,2009-05-02,11.0,32.18,1,4.0,19,4.75,19,24,0
+19,23.0,Kingsmead,Punjab Kings,2009-05-05,12.0,31.83,1,4.0,28,7.0,28,24,0
+20,25.0,Diamond Oval,Chennai Super Kings,2009-05-09,,34.17,0,4.0,28,7.0,-,-,0
+21,26.0,Diamond Oval,Deccan Chargers,2009-05-11,13.0,29.6,3,4.0,34,8.5,11.3,8,0
+22,27.0,Kingsmead,Mumbai Indians,2009-05-14,,31.27,0,3.0,25,8.33,-,-,0
+23,28.0,Mangaung Oval,Delhi Capitals,2009-05-17,,31.53,0,1.0,4,4.0,-,-,0
+24,30.0,Brabourne Stadium,Mumbai Indians,2010-03-13,,33.0,0,2.0,22,11.0,-,-,0
+25,33.0,Sardar Patel Stadium,Kolkata Knight Riders,2010-03-20,16.0,30.47,2,4.0,23,5.75,11.5,12,0
+26,34.0,Punjab Cricket Association IS Bindra Stadium,Punjab Kings,2010-03-24,18.0,27.74,2,2.0,9,4.5,4.5,6,0
+27,35.0,Sardar Patel Stadium,Deccan Chargers,2010-03-26,,28.37,0,2.0,12,6.0,-,-,0
+28,36.0,Sardar Patel Stadium,Chennai Super Kings,2010-03-28,20.0,28.25,1,4.0,26,6.5,26,24,0
+29,37.0,Arun Jaitley Stadium,Delhi Capitals,2010-03-31,,29.5,0,3.0,25,8.33,-,-,0
+30,38.0,MA Chidambaram Stadium,Chennai Super Kings,2010-04-03,,31.7,0,4.0,44,11.0,-,-,0
+31,39.0,Vidarbha Cricket Association Stadium,Deccan Chargers,2010-04-05,,31.85,0,2.0,3,1.5,-,-,0
+32,40.0,Sawai Mansingh Stadium,Punjab Kings,2010-04-07,,33.15,0,4.0,26,6.5,-,-,0
+33,41.0,Sawai Mansingh Stadium,Mumbai Indians,2010-04-11,,34.35,0,4.0,24,6.0,-,-,0
+34,43.0,Eden Gardens,Kolkata Knight Riders,2010-04-17,,35.95,0,3.0,32,10.67,-,-,0
+35,44.0,MA Chidambaram Stadium,Chennai Super Kings,2011-04-08,21.0,35.14,1,3.0,19,6.33,19,18,0
+36,45.0,Eden Gardens,Deccan Chargers,2011-04-11,,36.19,0,3.0,22,7.33,-,-,0
+37,46.0,Sawai Mansingh Stadium,Rajasthan Royals,2011-04-15,22.0,33.22,2,1.0,4,4.0,2,3,0
+38,47.0,Eden Gardens,Rajasthan Royals,2011-04-17,24.0,32.25,1,2.0,10,5.0,10,12,0
+39,48.0,Eden Gardens,Kochi Tuskers Kerala,2011-04-20,25.0,29.41,3,4.0,20,5.0,6.7,8,0
+40,49.0,Eden Gardens,Royal Challengers Bangalore,2011-04-22,,30.33,0,3.0,25,8.33,-,-,0
+41,50.0,Arun Jaitley Stadium,Delhi Capitals,2011-04-28,28.0,29.46,1,2.0,6,3.0,6,12,0
+42,51.0,Eden Gardens,Punjab Kings,2011-04-30,29.0,29.28,1,4.0,24,6.0,24,24,0
+43,52.0,Rajiv Gandhi International Stadium,Deccan Chargers,2011-05-03,,29.93,0,3.0,19,6.33,-,-,0
+44,53.0,Nehru Stadium (Kochi),Kochi Tuskers Kerala,2011-05-05,30.0,29.47,1,3.0,16,5.33,16,18,0
+45,54.0,Eden Gardens,Chennai Super Kings,2011-05-07,31.0,29.32,1,4.0,25,6.25,25,24,0
+46,56.0,Dr DY Patil Sports Academy,Pune Warriors,2011-05-19,32.0,28.24,2,4.0,23,5.75,11.5,12,0
+47,57.0,Eden Gardens,Mumbai Indians,2011-05-22,,28.45,0,1.0,7,7.0,-,-,0
+48,58.0,Wankhede Stadium,Mumbai Indians,2011-05-25,,29.0,0,2.0,18,9.0,-,-,0
+49,59.0,Eden Gardens,Delhi Capitals,2012-04-05,,29.21,0,1.0,7,7.0,-,-,0
+50,62.0,Eden Gardens,Rajasthan Royals,2012-04-13,,29.79,0,3.0,19,6.33,-,-,0
+51,63.0,Eden Gardens,Punjab Kings,2012-04-15,,30.0,0,1.0,7,7.0,-,-,0
+52,64.0,Punjab Cricket Association IS Bindra Stadium,Punjab Kings,2012-04-18,,30.21,0,1.0,7,7.0,-,-,0
+53,65.0,Barabati Stadium,Deccan Chargers,2012-04-22,,30.79,0,2.0,19,9.5,-,-,0
+54,66.0,Eden Gardens,Royal Challengers Bangalore,2012-04-28,34.0,30.44,1,4.0,19,4.75,19,24,0
+55,67.0,MA Chidambaram Stadium,Chennai Super Kings,2012-04-30,,30.74,0,1.0,10,10.0,-,-,0
+56,68.0,Eden Gardens,Pune Warriors,2012-05-05,,31.41,0,2.0,23,11.5,-,-,0
+57,71.0,Eden Gardens,Chennai Super Kings,2012-05-14,,31.82,0,2.0,14,7.0,-,-,0
+58,73.0,Maharashtra Cricket Association Stadium,Pune Warriors,2012-05-19,35.0,30.39,2,2.0,12,6.0,6,6,0
+59,75.0,MA Chidambaram Stadium,Chennai Super Kings,2012-05-27,,30.86,0,1.0,17,17.0,-,-,0
+60,81.0,Eden Gardens,Chennai Super Kings,2013-04-20,37.0,30.27,1,1.1,9,7.71,9,7,0
+61,84.0,MA Chidambaram Stadium,Chennai Super Kings,2013-04-28,,30.76,0,2.0,18,9.0,-,-,0
+62,85.0,Shaheed Veer Narayan Sing International Stadium,Delhi Capitals,2013-05-01,,31.05,0,0.5,11,13.2,-,-,0
+63,89.0,JSCA International Stadium Complex,Royal Challengers Bangalore,2013-05-12,,31.22,0,1.0,6,6.0,-,-,0
+64,91.0,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,2013-05-19,,32.0,0,4.0,29,7.25,-,-,0
+65,100.0,Barabati Stadium,Mumbai Indians,2014-05-14,,32.27,0,1.0,10,10.0,-,-,0
+66,108.0,Eden Gardens,Royal Challengers Bangalore,2015-04-11,38.0,31.64,2,4.0,40,10.0,20,12,0
+67,110.0,Arun Jaitley Stadium,Delhi Capitals,2015-04-20,,31.87,0,2.0,11,5.5,-,-,0
+68,111.0,Dr YS Rajasekhara Reddy Cricket Stadium,Sunrisers Hyderabad,2015-04-22,,32.33,0,1.0,9,9.0,-,-,0
+69,113.0,Eden Gardens,Chennai Super Kings,2015-04-30,,32.62,0,2.0,18,9.0,-,-,0
+70,115.0,Eden Gardens,Sunrisers Hyderabad,2015-05-04,,33.1,0,1.0,19,19.0,-,-,0
+71,123.0,Punjab Cricket Association IS Bindra Stadium,Punjab Kings,2016-04-19,40.0,32.43,1,1.0,6,6.0,6,6,0
+72,132.0,Green Park,Gujarat Lions,2016-05-19,,32.58,0,1.0,6,6.0,-,-,0
+73,133.0,Eden Gardens,Sunrisers Hyderabad,2016-05-22,,32.68,0,1.0,4,4.0,-,-,0
+74,134.0,Arun Jaitley Stadium,Sunrisers Hyderabad,2016-05-25,,33.1,0,3.0,17,5.67,-,-,0
+75,135.0,Saurashtra Cricket Association Stadium,Gujarat Lions,2017-04-07,,33.48,0,1.0,15,15.0,-,-,0
+76,138.0,Eden Gardens,Sunrisers Hyderabad,2017-04-15,41.0,32.71,1,1.0,2,2.0,2,6,0
+77,144.0,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,2017-04-30,,33.12,0,1.0,17,17.0,-,-,0
+78,149.0,M Chinnaswamy Stadium,Sunrisers Hyderabad,2017-05-17,,33.29,0,1.0,7,7.0,-,-,0
+79,157.0,Sawai Mansingh Stadium,Rajasthan Royals,2018-04-29,42.0,32.83,1,2.0,14,7.0,14,12,0
+80,169.0,Rajiv Gandhi International Stadium,Mumbai Indians,2019-04-06,,33.02,0,1.0,8,8.0,-,-,0

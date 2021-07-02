@@ -1,0 +1,254 @@
+Airport1,Airport2,venue1,venue2,Distance(km),Time(hr)
+Eden Gardens,ACA-VDCA Stadium,5,18,772,1.42
+Eden Gardens,Barabati Stadium,5,19,350,2.6
+Eden Gardens,Brabourne Stadium,5,20,1660,2.5
+Eden Gardens,DY Patil Stadium,5,21,1660,2.5
+Eden Gardens,Feroz Shah Kotla Ground,5,22,1320,2
+Eden Gardens,Green Park Stadium,5,23,920,1.3
+Eden Gardens,Holkar Stadium,5,17,1569,2.1
+Eden Gardens,HPCA Stadium,5,24,1600,6.4
+Eden Gardens,Jawaharlal Nehru Stadium,5,25,2835,4
+Eden Gardens,JSCA International Cricket Stadium,5,10,320,0.92
+Eden Gardens,M. A. Chidambaram Stadium,5,2,1380,1.92
+Eden Gardens,M. Chinnaswamy Stadium,5,1,1540,2.33
+Eden Gardens,Maharashtra Cricket Association Stadium,5,7,1580,2.66
+Eden Gardens,PCA Stadium,5,3,1467,2.6
+Eden Gardens,Raipur International Cricket Stadium/Shaheed Veer Narayan Sing International Stadium,5,15,710,3
+Eden Gardens,Rajiv Gandhi International Cricket Stadium,5,9,1182,2.2
+Eden Gardens,Sardar Patel Stadium,5,14,1620,2.58
+Eden Gardens,Saurashtra Cricket Association Stadium,5,16,1806,6.17
+Eden Gardens,Sawai Mansingh Stadium,5,4,1358,2.17
+Eden Gardens,VCA Stadium,5,26,980,1.92
+Eden Gardens,Wankhede Stadium,5,6,1660,2.5
+Eden Gardens,Arun Jaitley Stadium,5,8,1320,2
+Holkar Stadium,ACA-VDCA Stadium,17,18,950,4.8
+Holkar Stadium,Barabati Stadium,17,19,1070,9
+Holkar Stadium,Brabourne Stadium,17,20,500,1.08
+Holkar Stadium,DY Patil Stadium,17,21,500,1.08
+Holkar Stadium,Feroz Shah Kotla Ground,17,22,660,1.25
+Holkar Stadium,Green Park Stadium,17,23,620,0.93
+Holkar Stadium,HPCA Stadium,17,24,1057,5.28
+Holkar Stadium,Jawaharlal Nehru Stadium,17,25,1400,2.06
+Holkar Stadium,JSCA International Cricket Stadium,17,10,973,8.5
+Holkar Stadium,M. A. Chidambaram Stadium,17,2,1496,8.4
+Holkar Stadium,M. Chinnaswamy Stadium,17,1,1099,1.93
+Holkar Stadium,Maharashtra Cricket Association Stadium,17,7,511,4.5
+Holkar Stadium,PCA Stadium,17,3,887,1.5
+Holkar Stadium,Raipur International Cricket Stadium/Shaheed Veer Narayan Sing International Stadium,17,15,635,1
+Holkar Stadium,Rajiv Gandhi International Cricket Stadium,17,9,653,1.25
+Holkar Stadium,Sardar Patel Stadium,17,14,338,5.5
+Holkar Stadium,Saurashtra Cricket Association Stadium,17,16,484,13
+Holkar Stadium,Sawai Mansingh Stadium,17,4,455,4.5
+Holkar Stadium,VCA Stadium,17,26,380,0.5
+Holkar Stadium,Wankhede Stadium,17,6,500,1.08
+Holkar Stadium,Arun Jaitley Stadium,17,8,660,1.25
+JSCA International Cricket Stadium,ACA-VDCA Stadium,10,18,666,5
+JSCA International Cricket Stadium,Barabati Stadium,10,19,326,5.05
+JSCA International Cricket Stadium,Brabourne Stadium,10,20,1380,2.33
+JSCA International Cricket Stadium,DY Patil Stadium,10,21,1380,2.33
+JSCA International Cricket Stadium,Feroz Shah Kotla Ground,10,22,1000,1.4
+JSCA International Cricket Stadium,Green Park Stadium,10,23,615,0.93
+JSCA International Cricket Stadium,HPCA Stadium,10,24,1320,1.5
+JSCA International Cricket Stadium,Jawaharlal Nehru Stadium,10,25,1704,8
+JSCA International Cricket Stadium,M. A. Chidambaram Stadium,10,2,1724,8
+JSCA International Cricket Stadium,M. Chinnaswamy Stadium,10,1,1411,2
+JSCA International Cricket Stadium,Maharashtra Cricket Association Stadium,10,7,1300,1.93
+JSCA International Cricket Stadium,PCA Stadium,10,3,1173,1.5
+JSCA International Cricket Stadium,Raipur International Cricket Stadium/Shaheed Veer Narayan Sing International Stadium,10,15,920,3.66
+JSCA International Cricket Stadium,Rajiv Gandhi International Cricket Stadium,10,9,1377,5.4
+JSCA International Cricket Stadium,Sardar Patel Stadium,10,14,1300,5.5
+JSCA International Cricket Stadium,Saurashtra Cricket Association Stadium,10,16,1493,5.08
+JSCA International Cricket Stadium,Sawai Mansingh Stadium,10,4,1040,1.5
+JSCA International Cricket Stadium,VCA Stadium,10,26,682,0.5
+JSCA International Cricket Stadium,Wankhede Stadium,10,6,1380,2.33
+JSCA International Cricket Stadium,Arun Jaitley Stadium,10,8,1000,1.4
+M. A. Chidambaram Stadium,ACA-VDCA Stadium,2,18,602,1.58
+M. A. Chidambaram Stadium,Barabati Stadium,2,19,1015,2.83
+M. A. Chidambaram Stadium,Brabourne Stadium,2,20,1040,1.5
+M. A. Chidambaram Stadium,DY Patil Stadium,2,21,1040,1.5
+M. A. Chidambaram Stadium,Feroz Shah Kotla Ground,2,22,1760,2.58
+M. A. Chidambaram Stadium,Green Park Stadium,2,23,1500,2.23
+M. A. Chidambaram Stadium,HPCA Stadium,2,24,2164,8.2
+M. A. Chidambaram Stadium,Jawaharlal Nehru Stadium,2,25,520,1.16
+M. A. Chidambaram Stadium,M. Chinnaswamy Stadium,2,1,260,1.08
+M. A. Chidambaram Stadium,Maharashtra Cricket Association Stadium,2,7,914,1.5
+M. A. Chidambaram Stadium,PCA Stadium,2,3,1992,2.83
+M. A. Chidambaram Stadium,Raipur International Cricket Stadium/Shaheed Veer Narayan Sing International Stadium,2,15,920,3.66
+M. A. Chidambaram Stadium,Rajiv Gandhi International Cricket Stadium,2,9,500,1.05
+M. A. Chidambaram Stadium,Sardar Patel Stadium,2,14,1372,2.5
+M. A. Chidambaram Stadium,Saurashtra Cricket Association Stadium,2,16,1433,5.75
+M. A. Chidambaram Stadium,Sawai Mansingh Stadium,2,4,1606,6.83
+M. A. Chidambaram Stadium,VCA Stadium,2,26,910,1.36
+M. A. Chidambaram Stadium,Wankhede Stadium,2,6,1040,1.5
+M. A. Chidambaram Stadium,Arun Jaitley Stadium,2,8,1760,2.58
+M. Chinnaswamy Stadium,ACA-VDCA Stadium,1,18,775,1.5
+M. Chinnaswamy Stadium,Barabati Stadium,1,19,1211,1.83
+M. Chinnaswamy Stadium,Brabourne Stadium,1,20,842,1.75
+M. Chinnaswamy Stadium,DY Patil Stadium,1,21,842,1.75
+M. Chinnaswamy Stadium,Feroz Shah Kotla Ground,1,22,1740,2.75
+M. Chinnaswamy Stadium,Green Park Stadium,1,23,1521,6.01
+M. Chinnaswamy Stadium,HPCA Stadium,1,24,2142,5.91
+M. Chinnaswamy Stadium,Jawaharlal Nehru Stadium,1,25,366.41,1.08
+M. Chinnaswamy Stadium,Maharashtra Cricket Association Stadium,1,7,734,1.5
+M. Chinnaswamy Stadium,PCA Stadium,1,3,1969,2.83
+M. Chinnaswamy Stadium,Raipur International Cricket Stadium/Shaheed Veer Narayan Sing International Stadium,1,15,1013,1.66
+M. Chinnaswamy Stadium,Rajiv Gandhi International Cricket Stadium,1,9,499,1.16
+M. Chinnaswamy Stadium,Sardar Patel Stadium,1,14,1235,2.16
+M. Chinnaswamy Stadium,Saurashtra Cricket Association Stadium,1,16,1262,7
+M. Chinnaswamy Stadium,Sawai Mansingh Stadium,1,4,1520,4.16
+M. Chinnaswamy Stadium,VCA Stadium,1,26,925,2.75
+M. Chinnaswamy Stadium,Wankhede Stadium,1,6,842,1.75
+M. Chinnaswamy Stadium,Arun Jaitley Stadium,1,8,1740,2.75
+Maharashtra Cricket Association Stadium,ACA-VDCA Stadium,7,18,1003,3.91
+Maharashtra Cricket Association Stadium,Barabati Stadium,7,19,1277,6
+Maharashtra Cricket Association Stadium,Brabourne Stadium,7,20,118,4.58
+Maharashtra Cricket Association Stadium,DY Patil Stadium,7,21,118,4.58
+Maharashtra Cricket Association Stadium,Feroz Shah Kotla Ground,7,22,730.79,2.16
+Maharashtra Cricket Association Stadium,Green Park Stadium,7,23,1099,8.75
+Maharashtra Cricket Association Stadium,HPCA Stadium,7,24,1884,8.16
+Maharashtra Cricket Association Stadium,Jawaharlal Nehru Stadium,7,25,603.77,1.91
+Maharashtra Cricket Association Stadium,PCA Stadium,7,3,1381,2.16
+Maharashtra Cricket Association Stadium,Raipur International Cricket Stadium/Shaheed Veer Narayan Sing International Stadium,7,15,864,4.83
+Maharashtra Cricket Association Stadium,Rajiv Gandhi International Cricket Stadium,7,9,504,1.5
+Maharashtra Cricket Association Stadium,Sardar Patel Stadium,7,14,518,1.33
+Maharashtra Cricket Association Stadium,Saurashtra Cricket Association Stadium,7,16,528,0.95
+Maharashtra Cricket Association Stadium,Sawai Mansingh Stadium,7,4,948,2.08
+Maharashtra Cricket Association Stadium,VCA Stadium,7,26,625,1.25
+Maharashtra Cricket Association Stadium,Wankhede Stadium,7,6,118,4.58
+Maharashtra Cricket Association Stadium,Arun Jaitley Stadium,7,8,730.79,2.16
+PCA Stadium,ACA-VDCA Stadium,3,18,1590,4.81
+PCA Stadium,Barabati Stadium,3,19,1460,6
+PCA Stadium,Brabourne Stadium,3,20,1349,2.25
+PCA Stadium,DY Patil Stadium,3,21,1349,2.25
+PCA Stadium,Feroz Shah Kotla Ground,3,22,232,1
+PCA Stadium,Green Park Stadium,3,23,686,1.41
+PCA Stadium,HPCA Stadium,3,24,166,1.41
+PCA Stadium,Jawaharlal Nehru Stadium,3,25,2310,3.01
+PCA Stadium,Raipur International Cricket Stadium/Shaheed Veer Narayan Sing International Stadium,3,15,1158,4.33
+PCA Stadium,Rajiv Gandhi International Cricket Stadium,3,9,1485,2.1
+PCA Stadium,Sardar Patel Stadium,3,14,944,1.66
+PCA Stadium,Saurashtra Cricket Association Stadium,3,16,1103,7
+PCA Stadium,Sawai Mansingh Stadium,3,4,433,1.01
+PCA Stadium,VCA Stadium,3,26,1281,4.01
+PCA Stadium,Wankhede Stadium,3,6,1349,2.25
+PCA Stadium,Arun Jaitley Stadium,3,8,232,1
+Raipur International Cricket Stadium/Shaheed Veer Narayan Sing International Stadium,ACA-VDCA Stadium,15,18,429,1.08
+Raipur International Cricket Stadium/Shaheed Veer Narayan Sing International Stadium,Barabati Stadium,15,19,450,5.13
+Raipur International Cricket Stadium/Shaheed Veer Narayan Sing International Stadium,Brabourne Stadium,15,20,942,1.91
+Raipur International Cricket Stadium/Shaheed Veer Narayan Sing International Stadium,DY Patil Stadium,15,21,942,1.91
+Raipur International Cricket Stadium/Shaheed Veer Narayan Sing International Stadium,Feroz Shah Kotla Ground,15,22,935,1.66
+Raipur International Cricket Stadium/Shaheed Veer Narayan Sing International Stadium,Green Park Stadium,15,23,592,1.66
+Raipur International Cricket Stadium/Shaheed Veer Narayan Sing International Stadium,HPCA Stadium,15,24,1328,1.5
+Raipur International Cricket Stadium/Shaheed Veer Narayan Sing International Stadium,Jawaharlal Nehru Stadium,15,25,1379.28,4.66
+Raipur International Cricket Stadium/Shaheed Veer Narayan Sing International Stadium,Rajiv Gandhi International Cricket Stadium,15,9,538,3
+Raipur International Cricket Stadium/Shaheed Veer Narayan Sing International Stadium,Sardar Patel Stadium,15,14,953,4.41
+Raipur International Cricket Stadium/Shaheed Veer Narayan Sing International Stadium,Saurashtra Cricket Association Stadium,15,16,1127,1.16
+Raipur International Cricket Stadium/Shaheed Veer Narayan Sing International Stadium,Sawai Mansingh Stadium,15,4,865,3
+Raipur International Cricket Stadium/Shaheed Veer Narayan Sing International Stadium,VCA Stadium,15,26,259,0.75
+Raipur International Cricket Stadium/Shaheed Veer Narayan Sing International Stadium,Wankhede Stadium,15,6,942,1.91
+Raipur International Cricket Stadium/Shaheed Veer Narayan Sing International Stadium,Arun Jaitley Stadium,15,8,935,1.66
+Rajiv Gandhi International Cricket Stadium,ACA-VDCA Stadium,9,18,492,1.25
+Rajiv Gandhi International Cricket Stadium,Barabati Stadium,9,19,847,4
+Rajiv Gandhi International Cricket Stadium,Brabourne Stadium,9,20,620,1.16
+Rajiv Gandhi International Cricket Stadium,DY Patil Stadium,9,21,620,1.16
+Rajiv Gandhi International Cricket Stadium,Feroz Shah Kotla Ground,9,22,1260,2.08
+Rajiv Gandhi International Cricket Stadium,Green Park Stadium,9,23,1040,3.91
+Rajiv Gandhi International Cricket Stadium,HPCA Stadium,9,24,1664,6
+Rajiv Gandhi International Cricket Stadium,Jawaharlal Nehru Stadium,9,25,820,1.5
+Rajiv Gandhi International Cricket Stadium,Sardar Patel Stadium,9,14,876,1.91
+Rajiv Gandhi International Cricket Stadium,Saurashtra Cricket Association Stadium,9,16,980,1.46
+Rajiv Gandhi International Cricket Stadium,Sawai Mansingh Stadium,9,4,1100,1.91
+Rajiv Gandhi International Cricket Stadium,VCA Stadium,9,26,433,1.83
+Rajiv Gandhi International Cricket Stadium,Wankhede Stadium,9,6,620,1.16
+Rajiv Gandhi International Cricket Stadium,Arun Jaitley Stadium,9,8,1260,2.08
+Sardar Patel Stadium,Visakhapatnam,14,18,1258,5.67
+Sardar Patel Stadium,Cuttack,14,19,1402,6.35
+Sardar Patel Stadium,Mumbai,14,20,440,1
+Sardar Patel Stadium,Navi Mumbai,14,21,440,1
+Sardar Patel Stadium,Delhi,14,22,760,1.16
+Sardar Patel Stadium,Kanpur,14,23,860,3.18
+Sardar Patel Stadium,Dharamshala,14,24,1084,6
+Sardar Patel Stadium,Kochi,14,25,1500,2.17
+Sardar Patel Stadium,Rajkot,14,16,200,0.32
+Sardar Patel Stadium,Jaipur,14,4,520,0.78
+Sardar Patel Stadium,Nagpur,14,26,694,3.16
+Sardar Patel Stadium,Mumbai,14,6,440,1
+Sardar Patel Stadium,Delhi,14,8,760,1.16
+Saurashtra Cricket Association Stadium,ACA-VDCA Stadium,16,18,1394,11
+Saurashtra Cricket Association Stadium,Barabati Stadium,16,19,1576,10
+Saurashtra Cricket Association Stadium,Brabourne Stadium,16,20,419,1.16
+Saurashtra Cricket Association Stadium,DY Patil Stadium,16,21,419,1.16
+Saurashtra Cricket Association Stadium,Feroz Shah Kotla Ground,16,22,940,1.4
+Saurashtra Cricket Association Stadium,Green Park Stadium,16,23,1068,5
+Saurashtra Cricket Association Stadium,HPCA Stadium,16,24,1230,5.25
+Saurashtra Cricket Association Stadium,Jawaharlal Nehru Stadium,16,25,1489.22,5.25
+Saurashtra Cricket Association Stadium,Sawai Mansingh Stadium,16,4,715,5.66
+Saurashtra Cricket Association Stadium,VCA Stadium,16,26,872,5
+Saurashtra Cricket Association Stadium,Wankhede Stadium,16,6,419,1.16
+Saurashtra Cricket Association Stadium,Arun Jaitley Stadium,16,8,940,1.4
+Sawai Mansingh Stadium,ACA-VDCA Stadium,4,18,1762,5.58
+Sawai Mansingh Stadium,Barabati Stadium,4,19,1254,6.43
+Sawai Mansingh Stadium,Brabourne Stadium,4,20,920,1.5
+Sawai Mansingh Stadium,DY Patil Stadium,4,21,920,1.5
+Sawai Mansingh Stadium,Feroz Shah Kotla Ground,4,22,240,0.83
+Sawai Mansingh Stadium,Green Park Stadium,4,23,460,0.68
+Sawai Mansingh Stadium,HPCA Stadium,4,24,745,11
+Sawai Mansingh Stadium,Jawaharlal Nehru Stadium,4,25,1860,2.78
+Sawai Mansingh Stadium,VCA Stadium,4,26,720,1
+Sawai Mansingh Stadium,Wankhede Stadium,4,6,920,1.5
+Sawai Mansingh Stadium,Arun Jaitley Stadium,4,8,240,0.83
+VCA Stadium,ACA-VDCA Stadium,26,18,579,5.91
+VCA Stadium,Barabati Stadium,26,19,705,5
+VCA Stadium,Brabourne Stadium,26,20,681,1.33
+VCA Stadium,DY Patil Stadium,26,21,681,1.33
+VCA Stadium,Feroz Shah Kotla Ground,26,22,860,1.58
+VCA Stadium,Green Park Stadium,26,23,597,1.5
+VCA Stadium,HPCA Stadium,26,24,1259,1.5
+VCA Stadium,Jawaharlal Nehru Stadium,26,25,1280.68,5.5
+VCA Stadium,Wankhede Stadium,26,6,681,1.33
+VCA Stadium,Arun Jaitley Stadium,26,8,860,1.58
+Wankhede Stadium,ACA-VDCA Stadium,6,18,1100,2.17
+Wankhede Stadium,Barabati Stadium,6,19,1365,3
+Wankhede Stadium,Brabourne Stadium,6,20,0,0
+Wankhede Stadium,DY Patil Stadium,6,21,0,0
+Wankhede Stadium,Feroz Shah Kotla Ground,6,22,1140,2
+Wankhede Stadium,Green Park Stadium,6,23,1119,2.67
+Wankhede Stadium,HPCA Stadium,6,24,255,2.41
+Wankhede Stadium,Jawaharlal Nehru Stadium,6,25,1060,1.75
+Wankhede Stadium,Arun Jaitley Stadium,6,8,1140,2
+Arun Jaitley Stadium,ACA-VDCA Stadium,8,18,1360,2.26
+Arun Jaitley Stadium,Barabati Stadium,8,19,1263,2.68
+Arun Jaitley Stadium,Brabourne Stadium,8,20,1148,2
+Arun Jaitley Stadium,DY Patil Stadium,8,21,1148,2
+Arun Jaitley Stadium,Feroz Shah Kotla Ground,8,22,0,0
+Arun Jaitley Stadium,Green Park Stadium,8,23,393,1.42
+Arun Jaitley Stadium,HPCA Stadium,8,24,410,1.5
+Arun Jaitley Stadium,Jawaharlal Nehru Stadium,8,25,2081.78,3.16
+ACA-VDCA Stadium,Barabati Stadium,18,19,368,1
+ACA-VDCA Stadium,Brabourne Stadium,18,20,1100,2.17
+ACA-VDCA Stadium,DY Patil Stadium,18,21,1100,2.17
+ACA-VDCA Stadium,Feroz Shah Kotla Ground,18,22,1360,2.26
+ACA-VDCA Stadium,Green Park Stadium,18,23,1020,15
+ACA-VDCA Stadium,HPCA Stadium,18,24,1758,15.41
+ACA-VDCA Stadium,Jawaharlal Nehru Stadium,18,25,1143,4.5
+ACA-VDCA Stadium,Brabourne Stadium,19,20,1365,3
+Barabati Stadium,DY Patil Stadium,19,21,1365,3
+Barabati Stadium,Feroz Shah Kotla Ground,19,22,1263,2.68
+Barabati Stadium,Green Park Stadium,19,23,874,8
+Barabati Stadium,HPCA Stadium,19,24,1617,9.58
+Barabati Stadium,Jawaharlal Nehru Stadium,19,25,1559,4
+Brabourne Stadium,DY Patil Stadium,20,21,0,0
+Brabourne Stadium,Feroz Shah Kotla Ground,20,22,1140,2
+Brabourne Stadium,Green Park Stadium,20,23,1119,2.67
+Brabourne Stadium,HPCA Stadium,20,24,255,2.41
+Brabourne Stadium,Jawaharlal Nehru Stadium,20,25,1060,1.75
+DY Patil Stadium,Feroz Shah Kotla Ground,21,22,1140,2
+DY Patil Stadium,Green Park Stadium,21,23,1119,2.67
+DY Patil Stadium,HPCA Stadium,21,24,255,2.41
+DY Patil Stadium,Jawaharlal Nehru Stadium,21,25,1060,1.75
+Feroz Shah Kotla Ground,Green Park Stadium,22,23,393,1.42
+Feroz Shah Kotla Ground,HPCA Stadium,22,24,410,1.5
+Feroz Shah Kotla Ground,Jawaharlal Nehru Stadium,22,25,2081.78,3.16
+Green Park Stadium,HPCA Stadium,23,24,750,1.5
+Green Park Stadium,Jawaharlal Nehru Stadium,23,25,1879,2.78
+HPCA Stadium,Jawaharlal Nehru Stadium,24,25,2477,3.67

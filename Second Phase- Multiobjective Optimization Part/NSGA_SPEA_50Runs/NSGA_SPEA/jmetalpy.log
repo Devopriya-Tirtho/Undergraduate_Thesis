@@ -1,0 +1,224 @@
+2021-04-27 20:06:03,188 [MainThread  ] [INFO ]  Output file (function values): FUN.1NSGAII.Selection
+2021-04-27 20:06:03,192 [MainThread  ] [INFO ]  Output file (variables): VAR.1NSGAII.Selection
+2021-04-27 20:06:04,036 [MainThread  ] [INFO ]  Output file (function values): FUN.2NSGAII.Selection
+2021-04-27 20:06:04,042 [MainThread  ] [INFO ]  Output file (variables): VAR.2NSGAII.Selection
+2021-04-27 20:06:04,634 [MainThread  ] [INFO ]  Output file (function values): FUN.TrueParetoNSGAII.Selection
+2021-04-27 20:06:04,635 [MainThread  ] [INFO ]  Output file (variables): VAR.TrueParetoNSGAII.Selection
+2021-04-27 20:06:09,789 [MainThread  ] [INFO ]  Output file (function values): FUN.1SPEA2.Selection
+2021-04-27 20:06:09,794 [MainThread  ] [INFO ]  Output file (variables): VAR.1SPEA2.Selection
+2021-04-27 20:06:15,121 [MainThread  ] [INFO ]  Output file (function values): FUN.2SPEA2.Selection
+2021-04-27 20:06:15,127 [MainThread  ] [INFO ]  Output file (variables): VAR.2SPEA2.Selection
+2021-04-27 20:06:15,156 [MainThread  ] [INFO ]  Output file (function values): FUN.TrueParetoSPEA2.Selection
+2021-04-27 20:06:15,159 [MainThread  ] [INFO ]  Output file (variables): VAR.TrueParetoSPEA2.Selection
+2021-04-27 20:06:15,250 [MainThread  ] [INFO ]  Output file (function values): FUN.TrueParetoALL
+2021-04-27 20:06:15,251 [MainThread  ] [INFO ]  Output file (variables): VAR.TrueParetoALL
+2021-04-27 20:06:15,288 [MainThread  ] [INFO ]  Output file (function values): FUN.ALL
+2021-04-27 20:06:15,290 [MainThread  ] [INFO ]  Output file (variables): VAR.ALL
+2021-04-28 01:06:06,665 [MainThread  ] [INFO ]  Output file (function values): FUN.1NSGAII.Selection
+2021-04-28 01:06:06,724 [MainThread  ] [INFO ]  Output file (variables): VAR.1NSGAII.Selection
+2021-04-28 01:11:23,781 [MainThread  ] [INFO ]  Output file (function values): FUN.2NSGAII.Selection
+2021-04-28 01:11:23,844 [MainThread  ] [INFO ]  Output file (variables): VAR.2NSGAII.Selection
+2021-04-28 01:16:49,612 [MainThread  ] [INFO ]  Output file (function values): FUN.3NSGAII.Selection
+2021-04-28 01:16:49,661 [MainThread  ] [INFO ]  Output file (variables): VAR.3NSGAII.Selection
+2021-04-28 01:22:11,431 [MainThread  ] [INFO ]  Output file (function values): FUN.4NSGAII.Selection
+2021-04-28 01:22:11,489 [MainThread  ] [INFO ]  Output file (variables): VAR.4NSGAII.Selection
+2021-04-28 01:27:33,610 [MainThread  ] [INFO ]  Output file (function values): FUN.5NSGAII.Selection
+2021-04-28 01:27:33,671 [MainThread  ] [INFO ]  Output file (variables): VAR.5NSGAII.Selection
+2021-04-28 01:32:56,857 [MainThread  ] [INFO ]  Output file (function values): FUN.6NSGAII.Selection
+2021-04-28 01:32:56,912 [MainThread  ] [INFO ]  Output file (variables): VAR.6NSGAII.Selection
+2021-04-28 01:38:21,622 [MainThread  ] [INFO ]  Output file (function values): FUN.7NSGAII.Selection
+2021-04-28 01:38:21,677 [MainThread  ] [INFO ]  Output file (variables): VAR.7NSGAII.Selection
+2021-04-28 01:43:46,322 [MainThread  ] [INFO ]  Output file (function values): FUN.8NSGAII.Selection
+2021-04-28 01:43:46,370 [MainThread  ] [INFO ]  Output file (variables): VAR.8NSGAII.Selection
+2021-04-28 01:49:13,552 [MainThread  ] [INFO ]  Output file (function values): FUN.9NSGAII.Selection
+2021-04-28 01:49:13,620 [MainThread  ] [INFO ]  Output file (variables): VAR.9NSGAII.Selection
+2021-04-28 01:54:40,677 [MainThread  ] [INFO ]  Output file (function values): FUN.10NSGAII.Selection
+2021-04-28 01:54:40,724 [MainThread  ] [INFO ]  Output file (variables): VAR.10NSGAII.Selection
+2021-04-28 02:00:06,078 [MainThread  ] [INFO ]  Output file (function values): FUN.11NSGAII.Selection
+2021-04-28 02:00:06,134 [MainThread  ] [INFO ]  Output file (variables): VAR.11NSGAII.Selection
+2021-04-28 02:05:34,371 [MainThread  ] [INFO ]  Output file (function values): FUN.12NSGAII.Selection
+2021-04-28 02:05:34,439 [MainThread  ] [INFO ]  Output file (variables): VAR.12NSGAII.Selection
+2021-04-28 02:11:05,034 [MainThread  ] [INFO ]  Output file (function values): FUN.13NSGAII.Selection
+2021-04-28 02:11:05,096 [MainThread  ] [INFO ]  Output file (variables): VAR.13NSGAII.Selection
+2021-04-28 02:17:25,647 [MainThread  ] [INFO ]  Output file (function values): FUN.14NSGAII.Selection
+2021-04-28 02:17:25,703 [MainThread  ] [INFO ]  Output file (variables): VAR.14NSGAII.Selection
+2021-04-28 02:22:58,243 [MainThread  ] [INFO ]  Output file (function values): FUN.15NSGAII.Selection
+2021-04-28 02:22:58,285 [MainThread  ] [INFO ]  Output file (variables): VAR.15NSGAII.Selection
+2021-04-28 02:28:29,275 [MainThread  ] [INFO ]  Output file (function values): FUN.16NSGAII.Selection
+2021-04-28 02:28:29,333 [MainThread  ] [INFO ]  Output file (variables): VAR.16NSGAII.Selection
+2021-04-28 02:34:01,327 [MainThread  ] [INFO ]  Output file (function values): FUN.17NSGAII.Selection
+2021-04-28 02:34:01,377 [MainThread  ] [INFO ]  Output file (variables): VAR.17NSGAII.Selection
+2021-04-28 02:39:34,231 [MainThread  ] [INFO ]  Output file (function values): FUN.18NSGAII.Selection
+2021-04-28 02:39:34,293 [MainThread  ] [INFO ]  Output file (variables): VAR.18NSGAII.Selection
+2021-04-28 02:45:06,823 [MainThread  ] [INFO ]  Output file (function values): FUN.19NSGAII.Selection
+2021-04-28 02:45:06,887 [MainThread  ] [INFO ]  Output file (variables): VAR.19NSGAII.Selection
+2021-04-28 02:50:39,727 [MainThread  ] [INFO ]  Output file (function values): FUN.20NSGAII.Selection
+2021-04-28 02:50:39,786 [MainThread  ] [INFO ]  Output file (variables): VAR.20NSGAII.Selection
+2021-04-28 02:56:12,951 [MainThread  ] [INFO ]  Output file (function values): FUN.21NSGAII.Selection
+2021-04-28 02:56:13,012 [MainThread  ] [INFO ]  Output file (variables): VAR.21NSGAII.Selection
+2021-04-28 03:01:45,921 [MainThread  ] [INFO ]  Output file (function values): FUN.22NSGAII.Selection
+2021-04-28 03:01:45,985 [MainThread  ] [INFO ]  Output file (variables): VAR.22NSGAII.Selection
+2021-04-28 03:07:18,414 [MainThread  ] [INFO ]  Output file (function values): FUN.23NSGAII.Selection
+2021-04-28 03:07:18,475 [MainThread  ] [INFO ]  Output file (variables): VAR.23NSGAII.Selection
+2021-04-28 03:12:51,378 [MainThread  ] [INFO ]  Output file (function values): FUN.24NSGAII.Selection
+2021-04-28 03:12:51,442 [MainThread  ] [INFO ]  Output file (variables): VAR.24NSGAII.Selection
+2021-04-28 03:18:25,928 [MainThread  ] [INFO ]  Output file (function values): FUN.25NSGAII.Selection
+2021-04-28 03:18:25,981 [MainThread  ] [INFO ]  Output file (variables): VAR.25NSGAII.Selection
+2021-04-28 03:23:59,765 [MainThread  ] [INFO ]  Output file (function values): FUN.26NSGAII.Selection
+2021-04-28 03:23:59,826 [MainThread  ] [INFO ]  Output file (variables): VAR.26NSGAII.Selection
+2021-04-28 03:29:37,979 [MainThread  ] [INFO ]  Output file (function values): FUN.27NSGAII.Selection
+2021-04-28 03:29:38,043 [MainThread  ] [INFO ]  Output file (variables): VAR.27NSGAII.Selection
+2021-04-28 03:35:12,200 [MainThread  ] [INFO ]  Output file (function values): FUN.28NSGAII.Selection
+2021-04-28 03:35:12,253 [MainThread  ] [INFO ]  Output file (variables): VAR.28NSGAII.Selection
+2021-04-28 03:40:46,962 [MainThread  ] [INFO ]  Output file (function values): FUN.29NSGAII.Selection
+2021-04-28 03:40:47,023 [MainThread  ] [INFO ]  Output file (variables): VAR.29NSGAII.Selection
+2021-04-28 03:46:22,247 [MainThread  ] [INFO ]  Output file (function values): FUN.30NSGAII.Selection
+2021-04-28 03:46:22,310 [MainThread  ] [INFO ]  Output file (variables): VAR.30NSGAII.Selection
+2021-04-28 03:52:21,128 [MainThread  ] [INFO ]  Output file (function values): FUN.31NSGAII.Selection
+2021-04-28 03:52:21,192 [MainThread  ] [INFO ]  Output file (variables): VAR.31NSGAII.Selection
+2021-04-28 03:57:57,239 [MainThread  ] [INFO ]  Output file (function values): FUN.32NSGAII.Selection
+2021-04-28 03:57:57,303 [MainThread  ] [INFO ]  Output file (variables): VAR.32NSGAII.Selection
+2021-04-28 04:03:33,924 [MainThread  ] [INFO ]  Output file (function values): FUN.33NSGAII.Selection
+2021-04-28 04:03:33,978 [MainThread  ] [INFO ]  Output file (variables): VAR.33NSGAII.Selection
+2021-04-28 04:09:07,680 [MainThread  ] [INFO ]  Output file (function values): FUN.34NSGAII.Selection
+2021-04-28 04:09:07,741 [MainThread  ] [INFO ]  Output file (variables): VAR.34NSGAII.Selection
+2021-04-28 04:14:42,543 [MainThread  ] [INFO ]  Output file (function values): FUN.35NSGAII.Selection
+2021-04-28 04:14:42,591 [MainThread  ] [INFO ]  Output file (variables): VAR.35NSGAII.Selection
+2021-04-28 04:20:20,008 [MainThread  ] [INFO ]  Output file (function values): FUN.36NSGAII.Selection
+2021-04-28 04:20:20,064 [MainThread  ] [INFO ]  Output file (variables): VAR.36NSGAII.Selection
+2021-04-28 04:25:55,257 [MainThread  ] [INFO ]  Output file (function values): FUN.37NSGAII.Selection
+2021-04-28 04:25:55,314 [MainThread  ] [INFO ]  Output file (variables): VAR.37NSGAII.Selection
+2021-04-28 04:31:30,201 [MainThread  ] [INFO ]  Output file (function values): FUN.38NSGAII.Selection
+2021-04-28 04:31:30,262 [MainThread  ] [INFO ]  Output file (variables): VAR.38NSGAII.Selection
+2021-04-28 04:37:06,018 [MainThread  ] [INFO ]  Output file (function values): FUN.39NSGAII.Selection
+2021-04-28 04:37:06,081 [MainThread  ] [INFO ]  Output file (variables): VAR.39NSGAII.Selection
+2021-04-28 04:42:41,017 [MainThread  ] [INFO ]  Output file (function values): FUN.40NSGAII.Selection
+2021-04-28 04:42:41,082 [MainThread  ] [INFO ]  Output file (variables): VAR.40NSGAII.Selection
+2021-04-28 04:48:18,185 [MainThread  ] [INFO ]  Output file (function values): FUN.41NSGAII.Selection
+2021-04-28 04:48:18,233 [MainThread  ] [INFO ]  Output file (variables): VAR.41NSGAII.Selection
+2021-04-28 04:53:54,023 [MainThread  ] [INFO ]  Output file (function values): FUN.42NSGAII.Selection
+2021-04-28 04:53:54,077 [MainThread  ] [INFO ]  Output file (variables): VAR.42NSGAII.Selection
+2021-04-28 04:59:29,574 [MainThread  ] [INFO ]  Output file (function values): FUN.43NSGAII.Selection
+2021-04-28 04:59:29,621 [MainThread  ] [INFO ]  Output file (variables): VAR.43NSGAII.Selection
+2021-04-28 05:05:07,711 [MainThread  ] [INFO ]  Output file (function values): FUN.44NSGAII.Selection
+2021-04-28 05:05:07,773 [MainThread  ] [INFO ]  Output file (variables): VAR.44NSGAII.Selection
+2021-04-28 05:10:44,789 [MainThread  ] [INFO ]  Output file (function values): FUN.45NSGAII.Selection
+2021-04-28 05:10:44,841 [MainThread  ] [INFO ]  Output file (variables): VAR.45NSGAII.Selection
+2021-04-28 05:16:21,168 [MainThread  ] [INFO ]  Output file (function values): FUN.46NSGAII.Selection
+2021-04-28 05:16:21,219 [MainThread  ] [INFO ]  Output file (variables): VAR.46NSGAII.Selection
+2021-04-28 05:22:00,088 [MainThread  ] [INFO ]  Output file (function values): FUN.47NSGAII.Selection
+2021-04-28 05:22:00,154 [MainThread  ] [INFO ]  Output file (variables): VAR.47NSGAII.Selection
+2021-04-28 05:27:36,769 [MainThread  ] [INFO ]  Output file (function values): FUN.48NSGAII.Selection
+2021-04-28 05:27:36,831 [MainThread  ] [INFO ]  Output file (variables): VAR.48NSGAII.Selection
+2021-04-28 05:33:15,171 [MainThread  ] [INFO ]  Output file (function values): FUN.49NSGAII.Selection
+2021-04-28 05:33:15,231 [MainThread  ] [INFO ]  Output file (variables): VAR.49NSGAII.Selection
+2021-04-28 05:38:53,038 [MainThread  ] [INFO ]  Output file (function values): FUN.50NSGAII.Selection
+2021-04-28 05:38:53,098 [MainThread  ] [INFO ]  Output file (variables): VAR.50NSGAII.Selection
+2021-04-28 05:38:55,524 [MainThread  ] [INFO ]  Output file (function values): FUN.TrueParetoNSGAII.Selection
+2021-04-28 05:38:55,528 [MainThread  ] [INFO ]  Output file (variables): VAR.TrueParetoNSGAII.Selection
+2021-04-28 06:19:25,602 [MainThread  ] [INFO ]  Output file (function values): FUN.1SPEA2.Selection
+2021-04-28 06:19:25,667 [MainThread  ] [INFO ]  Output file (variables): VAR.1SPEA2.Selection
+2021-04-28 06:51:46,499 [MainThread  ] [INFO ]  Output file (function values): FUN.2SPEA2.Selection
+2021-04-28 06:51:46,567 [MainThread  ] [INFO ]  Output file (variables): VAR.2SPEA2.Selection
+2021-04-28 07:22:39,137 [MainThread  ] [INFO ]  Output file (function values): FUN.3SPEA2.Selection
+2021-04-28 07:22:39,183 [MainThread  ] [INFO ]  Output file (variables): VAR.3SPEA2.Selection
+2021-04-28 07:55:13,258 [MainThread  ] [INFO ]  Output file (function values): FUN.4SPEA2.Selection
+2021-04-28 07:55:13,313 [MainThread  ] [INFO ]  Output file (variables): VAR.4SPEA2.Selection
+2021-04-28 08:23:43,034 [MainThread  ] [INFO ]  Output file (function values): FUN.5SPEA2.Selection
+2021-04-28 08:23:43,071 [MainThread  ] [INFO ]  Output file (variables): VAR.5SPEA2.Selection
+2021-04-28 08:53:15,957 [MainThread  ] [INFO ]  Output file (function values): FUN.6SPEA2.Selection
+2021-04-28 08:53:15,994 [MainThread  ] [INFO ]  Output file (variables): VAR.6SPEA2.Selection
+2021-04-28 09:26:56,422 [MainThread  ] [INFO ]  Output file (function values): FUN.7SPEA2.Selection
+2021-04-28 09:26:56,492 [MainThread  ] [INFO ]  Output file (variables): VAR.7SPEA2.Selection
+2021-04-28 09:58:37,534 [MainThread  ] [INFO ]  Output file (function values): FUN.8SPEA2.Selection
+2021-04-28 09:58:37,583 [MainThread  ] [INFO ]  Output file (variables): VAR.8SPEA2.Selection
+2021-04-28 10:30:15,228 [MainThread  ] [INFO ]  Output file (function values): FUN.9SPEA2.Selection
+2021-04-28 10:30:15,285 [MainThread  ] [INFO ]  Output file (variables): VAR.9SPEA2.Selection
+2021-04-28 11:03:03,799 [MainThread  ] [INFO ]  Output file (function values): FUN.10SPEA2.Selection
+2021-04-28 11:03:03,854 [MainThread  ] [INFO ]  Output file (variables): VAR.10SPEA2.Selection
+2021-04-28 11:31:19,715 [MainThread  ] [INFO ]  Output file (function values): FUN.11SPEA2.Selection
+2021-04-28 11:31:19,766 [MainThread  ] [INFO ]  Output file (variables): VAR.11SPEA2.Selection
+2021-04-28 12:06:27,535 [MainThread  ] [INFO ]  Output file (function values): FUN.12SPEA2.Selection
+2021-04-28 12:06:27,589 [MainThread  ] [INFO ]  Output file (variables): VAR.12SPEA2.Selection
+2021-04-28 12:37:47,426 [MainThread  ] [INFO ]  Output file (function values): FUN.13SPEA2.Selection
+2021-04-28 12:37:47,479 [MainThread  ] [INFO ]  Output file (variables): VAR.13SPEA2.Selection
+2021-04-28 13:06:06,665 [MainThread  ] [INFO ]  Output file (function values): FUN.14SPEA2.Selection
+2021-04-28 13:06:06,713 [MainThread  ] [INFO ]  Output file (variables): VAR.14SPEA2.Selection
+2021-04-28 13:43:41,110 [MainThread  ] [INFO ]  Output file (function values): FUN.15SPEA2.Selection
+2021-04-28 13:43:41,180 [MainThread  ] [INFO ]  Output file (variables): VAR.15SPEA2.Selection
+2021-04-28 14:15:42,238 [MainThread  ] [INFO ]  Output file (function values): FUN.16SPEA2.Selection
+2021-04-28 14:15:42,296 [MainThread  ] [INFO ]  Output file (variables): VAR.16SPEA2.Selection
+2021-04-28 14:49:56,247 [MainThread  ] [INFO ]  Output file (function values): FUN.17SPEA2.Selection
+2021-04-28 14:49:56,311 [MainThread  ] [INFO ]  Output file (variables): VAR.17SPEA2.Selection
+2021-04-28 15:17:08,169 [MainThread  ] [INFO ]  Output file (function values): FUN.18SPEA2.Selection
+2021-04-28 15:17:08,208 [MainThread  ] [INFO ]  Output file (variables): VAR.18SPEA2.Selection
+2021-04-28 15:50:31,523 [MainThread  ] [INFO ]  Output file (function values): FUN.19SPEA2.Selection
+2021-04-28 15:50:31,575 [MainThread  ] [INFO ]  Output file (variables): VAR.19SPEA2.Selection
+2021-04-28 16:22:14,733 [MainThread  ] [INFO ]  Output file (function values): FUN.20SPEA2.Selection
+2021-04-28 16:22:14,773 [MainThread  ] [INFO ]  Output file (variables): VAR.20SPEA2.Selection
+2021-04-28 16:54:49,041 [MainThread  ] [INFO ]  Output file (function values): FUN.21SPEA2.Selection
+2021-04-28 16:54:49,098 [MainThread  ] [INFO ]  Output file (variables): VAR.21SPEA2.Selection
+2021-04-28 17:23:48,200 [MainThread  ] [INFO ]  Output file (function values): FUN.22SPEA2.Selection
+2021-04-28 17:23:48,256 [MainThread  ] [INFO ]  Output file (variables): VAR.22SPEA2.Selection
+2021-04-28 17:53:59,672 [MainThread  ] [INFO ]  Output file (function values): FUN.23SPEA2.Selection
+2021-04-28 17:53:59,726 [MainThread  ] [INFO ]  Output file (variables): VAR.23SPEA2.Selection
+2021-04-28 18:26:46,227 [MainThread  ] [INFO ]  Output file (function values): FUN.24SPEA2.Selection
+2021-04-28 18:26:46,289 [MainThread  ] [INFO ]  Output file (variables): VAR.24SPEA2.Selection
+2021-04-28 19:01:22,597 [MainThread  ] [INFO ]  Output file (function values): FUN.25SPEA2.Selection
+2021-04-28 19:01:22,651 [MainThread  ] [INFO ]  Output file (variables): VAR.25SPEA2.Selection
+2021-04-28 19:30:28,025 [MainThread  ] [INFO ]  Output file (function values): FUN.26SPEA2.Selection
+2021-04-28 19:30:28,072 [MainThread  ] [INFO ]  Output file (variables): VAR.26SPEA2.Selection
+2021-04-28 20:01:25,398 [MainThread  ] [INFO ]  Output file (function values): FUN.27SPEA2.Selection
+2021-04-28 20:01:25,452 [MainThread  ] [INFO ]  Output file (variables): VAR.27SPEA2.Selection
+2021-04-28 20:31:35,085 [MainThread  ] [INFO ]  Output file (function values): FUN.28SPEA2.Selection
+2021-04-28 20:31:35,137 [MainThread  ] [INFO ]  Output file (variables): VAR.28SPEA2.Selection
+2021-04-28 21:06:20,396 [MainThread  ] [INFO ]  Output file (function values): FUN.29SPEA2.Selection
+2021-04-28 21:06:20,469 [MainThread  ] [INFO ]  Output file (variables): VAR.29SPEA2.Selection
+2021-04-28 21:42:48,195 [MainThread  ] [INFO ]  Output file (function values): FUN.30SPEA2.Selection
+2021-04-28 21:42:48,256 [MainThread  ] [INFO ]  Output file (variables): VAR.30SPEA2.Selection
+2021-04-28 22:13:20,538 [MainThread  ] [INFO ]  Output file (function values): FUN.31SPEA2.Selection
+2021-04-28 22:13:20,577 [MainThread  ] [INFO ]  Output file (variables): VAR.31SPEA2.Selection
+2021-04-28 22:41:34,675 [MainThread  ] [INFO ]  Output file (function values): FUN.32SPEA2.Selection
+2021-04-28 22:41:34,723 [MainThread  ] [INFO ]  Output file (variables): VAR.32SPEA2.Selection
+2021-04-28 23:13:46,166 [MainThread  ] [INFO ]  Output file (function values): FUN.33SPEA2.Selection
+2021-04-28 23:13:46,213 [MainThread  ] [INFO ]  Output file (variables): VAR.33SPEA2.Selection
+2021-04-28 23:47:10,846 [MainThread  ] [INFO ]  Output file (function values): FUN.34SPEA2.Selection
+2021-04-28 23:47:10,901 [MainThread  ] [INFO ]  Output file (variables): VAR.34SPEA2.Selection
+2021-04-29 00:19:07,957 [MainThread  ] [INFO ]  Output file (function values): FUN.35SPEA2.Selection
+2021-04-29 00:19:08,014 [MainThread  ] [INFO ]  Output file (variables): VAR.35SPEA2.Selection
+2021-04-29 00:51:34,108 [MainThread  ] [INFO ]  Output file (function values): FUN.36SPEA2.Selection
+2021-04-29 00:51:34,163 [MainThread  ] [INFO ]  Output file (variables): VAR.36SPEA2.Selection
+2021-04-29 01:24:13,113 [MainThread  ] [INFO ]  Output file (function values): FUN.37SPEA2.Selection
+2021-04-29 01:24:13,174 [MainThread  ] [INFO ]  Output file (variables): VAR.37SPEA2.Selection
+2021-04-29 01:55:41,432 [MainThread  ] [INFO ]  Output file (function values): FUN.38SPEA2.Selection
+2021-04-29 01:55:41,494 [MainThread  ] [INFO ]  Output file (variables): VAR.38SPEA2.Selection
+2021-04-29 02:24:51,580 [MainThread  ] [INFO ]  Output file (function values): FUN.39SPEA2.Selection
+2021-04-29 02:24:51,642 [MainThread  ] [INFO ]  Output file (variables): VAR.39SPEA2.Selection
+2021-04-29 02:59:10,622 [MainThread  ] [INFO ]  Output file (function values): FUN.40SPEA2.Selection
+2021-04-29 02:59:10,686 [MainThread  ] [INFO ]  Output file (variables): VAR.40SPEA2.Selection
+2021-04-29 03:37:38,118 [MainThread  ] [INFO ]  Output file (function values): FUN.41SPEA2.Selection
+2021-04-29 03:37:38,175 [MainThread  ] [INFO ]  Output file (variables): VAR.41SPEA2.Selection
+2021-04-29 04:14:16,918 [MainThread  ] [INFO ]  Output file (function values): FUN.42SPEA2.Selection
+2021-04-29 04:14:16,987 [MainThread  ] [INFO ]  Output file (variables): VAR.42SPEA2.Selection
+2021-04-29 04:51:49,030 [MainThread  ] [INFO ]  Output file (function values): FUN.43SPEA2.Selection
+2021-04-29 04:51:49,094 [MainThread  ] [INFO ]  Output file (variables): VAR.43SPEA2.Selection
+2021-04-29 05:30:10,890 [MainThread  ] [INFO ]  Output file (function values): FUN.44SPEA2.Selection
+2021-04-29 05:30:10,959 [MainThread  ] [INFO ]  Output file (variables): VAR.44SPEA2.Selection
+2021-04-29 06:03:32,514 [MainThread  ] [INFO ]  Output file (function values): FUN.45SPEA2.Selection
+2021-04-29 06:03:32,563 [MainThread  ] [INFO ]  Output file (variables): VAR.45SPEA2.Selection
+2021-04-29 06:36:44,821 [MainThread  ] [INFO ]  Output file (function values): FUN.46SPEA2.Selection
+2021-04-29 06:36:44,876 [MainThread  ] [INFO ]  Output file (variables): VAR.46SPEA2.Selection
+2021-04-29 07:09:23,512 [MainThread  ] [INFO ]  Output file (function values): FUN.47SPEA2.Selection
+2021-04-29 07:09:23,575 [MainThread  ] [INFO ]  Output file (variables): VAR.47SPEA2.Selection
+2021-04-29 07:40:34,096 [MainThread  ] [INFO ]  Output file (function values): FUN.48SPEA2.Selection
+2021-04-29 07:40:34,142 [MainThread  ] [INFO ]  Output file (variables): VAR.48SPEA2.Selection
+2021-04-29 08:16:26,845 [MainThread  ] [INFO ]  Output file (function values): FUN.49SPEA2.Selection
+2021-04-29 08:16:26,906 [MainThread  ] [INFO ]  Output file (variables): VAR.49SPEA2.Selection
+2021-04-29 08:51:12,503 [MainThread  ] [INFO ]  Output file (function values): FUN.50SPEA2.Selection
+2021-04-29 08:51:12,574 [MainThread  ] [INFO ]  Output file (variables): VAR.50SPEA2.Selection
+2021-04-29 08:51:14,196 [MainThread  ] [INFO ]  Output file (function values): FUN.TrueParetoSPEA2.Selection
+2021-04-29 08:51:14,200 [MainThread  ] [INFO ]  Output file (variables): VAR.TrueParetoSPEA2.Selection
+2021-04-29 08:51:17,134 [MainThread  ] [INFO ]  Output file (function values): FUN.TrueParetoALL
+2021-04-29 08:51:17,139 [MainThread  ] [INFO ]  Output file (variables): VAR.TrueParetoALL
+2021-04-29 08:51:17,419 [MainThread  ] [INFO ]  Output file (function values): FUN.ALL
+2021-04-29 08:51:17,490 [MainThread  ] [INFO ]  Output file (variables): VAR.ALL

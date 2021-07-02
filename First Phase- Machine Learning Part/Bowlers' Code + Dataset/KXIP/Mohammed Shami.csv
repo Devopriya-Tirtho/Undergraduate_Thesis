@@ -1,0 +1,50 @@
+,Match,Ground,Vs,Date,Agg,Avg,WicketsCric,Overs,Runs,Econ,AvgCric,SR,5W
+0,1.0,Sawai Mansingh Stadium,Rajasthan Royals,2013-04-08,0.0,,0,3.0,26,8.67,-,-,0
+1,2.0,MA Chidambaram Stadium,Chennai Super Kings,2013-04-28,0.0,,0,2.0,20,10.0,-,-,0
+2,3.0,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,2013-05-19,1.0,78.0,1,4.0,32,8.0,32,24,0
+3,4.0,Sharjah Cricket Stadium,Royal Challengers Bangalore,2014-04-17,2.0,54.0,1,4.0,30,7.5,30,24,0
+4,5.0,Dubai International Cricket Stadium,Kolkata Knight Riders,2014-04-19,3.0,47.0,1,4.0,33,8.25,33,24,0
+5,6.0,Sheikh Zayed Stadium,Chennai Super Kings,2014-04-21,4.0,46.5,1,4.0,45,11.25,45,24,0
+6,7.0,Dubai International Cricket Stadium,Sunrisers Hyderabad,2014-04-25,4.0,55.5,0,4.0,36,9.0,-,-,0
+7,8.0,Sharjah Cricket Stadium,Mumbai Indians,2014-04-27,4.0,64.5,0,4.0,36,9.0,-,-,0
+8,9.0,Arun Jaitley Stadium,Rajasthan Royals,2014-05-03,5.0,56.0,1,4.0,22,5.5,22,24,0
+9,10.0,Arun Jaitley Stadium,Chennai Super Kings,2014-05-05,5.0,64.4,0,4.0,42,10.5,-,-,0
+10,11.0,Arun Jaitley Stadium,Kolkata Knight Riders,2014-05-07,5.0,69.0,0,4.0,23,5.75,-,-,0
+11,12.0,Arun Jaitley Stadium,Sunrisers Hyderabad,2014-05-10,5.0,70.2,0,1.0,6,6.0,-,-,0
+12,13.0,M Chinnaswamy Stadium,Royal Challengers Bangalore,2014-05-13,6.0,63.67,1,4.0,31,7.75,31,24,0
+13,14.0,Arun Jaitley Stadium,Kings XI Punjab,2014-05-19,7.0,60.14,1,4.0,39,9.75,39,24,0
+14,15.0,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,2014-05-25,8.0,55.88,1,3.0,26,8.67,26,18,0
+15,16.0,M Chinnaswamy Stadium,Royal Challengers Bangalore,2016-04-17,10.0,48.1,2,4.0,34,8.5,17,12,0
+16,17.0,Arun Jaitley Stadium,Mumbai Indians,2016-04-23,10.0,50.5,0,3.0,24,8.0,-,-,0
+17,18.0,Arun Jaitley Stadium,Kolkata Knight Riders,2016-04-30,10.0,53.8,0,4.0,33,8.25,-,-,0
+18,19.0,Saurashtra Cricket Association Stadium,Gujarat Lions,2016-05-03,11.0,51.73,1,4.0,31,7.75,31,24,0
+19,20.0,Arun Jaitley Stadium,Rising Pune Supergiant,2016-05-05,11.0,56.27,0,3.1,50,15.79,-,-,0
+20,21.0,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,2016-05-07,12.0,54.42,1,3.0,34,11.33,34,18,0
+21,22.0,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,2016-05-12,13.0,52.23,1,3.0,26,8.67,26,18,0
+22,23.0,Dr YS Rajasekhara Reddy Cricket Stadium,Rising Pune Supergiant,2016-05-17,13.0,53.15,0,1.0,12,12.0,-,-,0
+23,24.0,Arun Jaitley Stadium,Kolkata Knight Riders,2017-04-17,13.0,55.31,0,3.0,28,9.33,-,-,0
+24,25.0,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,2017-04-30,13.0,56.77,0,2.0,19,9.5,-,-,0
+25,26.0,Arun Jaitley Stadium,Sunrisers Hyderabad,2017-05-02,15.0,51.6,2,4.0,36,9.0,18,12,0
+26,27.0,Arun Jaitley Stadium,Gujarat Lions,2017-05-04,15.0,54.27,0,3.0,40,13.33,-,-,0
+27,28.0,Barabati Stadium,Mumbai Indians,2017-05-06,15.0,55.33,0,2.0,16,8.0,-,-,0
+28,29.0,Green Park,Gujarat Lions,2017-05-10,16.0,54.13,1,4.0,36,9.0,36,24,0
+29,30.0,Arun Jaitley Stadium,Rising Pune Supergiant,2017-05-12,18.0,50.17,2,4.0,37,9.25,18.5,12,0
+30,31.0,Arun Jaitley Stadium,Royal Challengers Bangalore,2017-05-14,18.0,51.89,0,4.0,31,7.75,-,-,0
+31,32.0,Punjab Cricket Association IS Bindra Stadium,Kings XI Punjab,2018-04-08,18.0,53.33,0,2.0,26,13.0,-,-,0
+32,33.0,Sawai Mansingh Stadium,Rajasthan Royals,2018-04-11,19.0,52.05,1,3.5,29,7.57,29,23,0
+33,34.0,Wankhede Stadium,Mumbai Indians,2018-04-14,20.0,51.25,1,4.0,36,9.0,36,24,0
+34,35.0,Eden Gardens,Kolkata Knight Riders,2018-04-16,21.0,51.33,1,4.0,53,13.25,53,24,0
+35,36.0,Sawai Mansingh Stadium,Rajasthan Royals,2019-03-25,21.0,52.9,0,4.0,33,8.25,-,-,0
+36,37.0,Eden Gardens,Kolkata Knight Riders,2019-03-27,22.0,52.5,1,4.0,44,11.0,44,24,0
+37,38.0,Punjab Cricket Association IS Bindra Stadium,Mumbai Indians,2019-03-30,24.0,49.88,2,4.0,42,10.5,21,12,0
+38,39.0,Punjab Cricket Association IS Bindra Stadium,Delhi Capitals,2019-04-01,26.0,47.08,2,4.0,27,6.75,13.5,12,0
+39,40.0,MA Chidambaram Stadium,Chennai Super Kings,2019-04-06,26.0,48.65,0,4.0,41,10.25,-,-,0
+40,41.0,Punjab Cricket Association IS Bindra Stadium,Sunrisers Hyderabad,2019-04-08,27.0,47.96,1,4.0,30,7.5,30,24,0
+41,42.0,Wankhede Stadium,Mumbai Indians,2019-04-10,30.0,43.87,3,4.0,21,5.25,7,8,0
+42,43.0,Punjab Cricket Association IS Bindra Stadium,Royal Challengers Bangalore,2019-04-13,31.0,43.84,1,4.0,43,10.75,43,24,0
+43,44.0,Punjab Cricket Association IS Bindra Stadium,Rajasthan Royals,2019-04-16,33.0,42.58,2,4.0,46,11.5,23,12,0
+44,45.0,Arun Jaitley Stadium,Delhi Capitals,2019-04-20,34.0,41.94,1,4.0,21,5.25,21,24,0
+45,46.0,M Chinnaswamy Stadium,Royal Challengers Bangalore,2019-04-24,35.0,42.26,1,4.0,53,13.25,53,24,0
+46,47.0,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,2019-04-29,37.0,40.95,2,4.0,36,9.0,18,12,0
+47,48.0,Punjab Cricket Association IS Bindra Stadium,Kolkata Knight Riders,2019-05-03,38.0,40.26,1,3.0,15,5.0,15,18,0
+48,49.0,Punjab Cricket Association IS Bindra Stadium,Chennai Super Kings,2019-05-05,40.0,38.68,2,3.0,17,5.67,8.5,9,0

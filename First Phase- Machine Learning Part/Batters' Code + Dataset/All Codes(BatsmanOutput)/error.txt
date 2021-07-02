@@ -1,0 +1,46 @@
+
+CSK
+middle:
+
+ 
+lower:
+
+
+--------------------
+Dc: mid:
+
+lower:
+
+------
+kkr: mid:
+Joe DenlyBatting Allrounder.csv( 1 data)---
+
+---------------
+KXIP:
+top:
+
+
+mid:Harpreet BrarBatting Allrounder.csv(1 data)---
+
+Simran SinghWK-Batsman.csv(1 data)----
+
+
+low:
+
+MI:
+MIDDLE ORDER: Siddesh Lad(1 data)----
+
+
+RCB:mid:
+
+low:
+Prayas BarmanBowling Allrounder.csv( single data)----
+
+
+RR: mid:
+Prashant ChopraWK-Batsman.csv(single data )
+
+
+low:
+
+SRH:
